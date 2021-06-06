@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning GO
 - 👯 I’m looking to collaborate on Any Open source projects
 - 🤔 I’m looking for help with Deploying website on Cloud
-- 💬 Ask me about ... [here](https://github.com/FallenHelix/FallenHelix/issues
+- 💬 Ask me about anything [here](https://github.com/FallenHelix/FallenHelix/issues)
 
 
 
